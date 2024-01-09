@@ -132,17 +132,17 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+  <a href="##"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="##"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Kasun-Sanjaya"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/nirosh-sanjaya-008032b5/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/niroshsanjaya.kasun/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/niroshsanjayakasun/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://youtube.com/@mrbelrog177?si=ly8mxl6OKhnFwjsk"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
 
 <hr/>
 
-* Credit: [CKasun-Sanjaya](https://github.com/Kasun-Sanjaya)
-* Last Edited on: 09/01/2024
+* Credit: [Kasun-Sanjaya](https://github.com/Kasun-Sanjaya)
+* Last Edited on: 10/01/2024
