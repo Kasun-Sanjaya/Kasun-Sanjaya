@@ -16,8 +16,8 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [`graphic designers and photography` **&** `Junio software engineer`]
-- :technologist: **Currently working on** `graphic designers and photography` **&** `Junio software engineer`
+<!-- - :school: I am a `Junior` at [`graphic designers and photography` **&** `Junior software engineer`] -->
+- :technologist: ** I am a Currently working on** `graphic designers and photography` **&** `Junio software engineer`
 - :boom: You can visit [MY WEBSITE](https://github.com/Kasun-Sanjaya) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](##)
 - :nerd_face: Always believe `"You are what you loved"`
