@@ -13,8 +13,8 @@
 <!--About Me-->
 
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center">Hi 👋, I'm Kasun Snjaya</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h1 align="center">Hi 👋, I'm Kasun </h1>
+<h3 align="center">Passionate IT Student | Senior Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
@@ -23,9 +23,9 @@
   
 - 🌱 I’m currently learning **OOP with Java**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **java institute**
 
-- 💬 Ask me about **Web development | graphic designers and photography**
+- 💬 Ask me about **Junior Web development | graphic designers and photography**
 
 - 📫 How to reach me **niroshsanjaya234@@gmail.com**
   
