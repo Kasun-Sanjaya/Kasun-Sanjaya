@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Junior Web development | graphic designers and photography**
 
-- 📫 How to reach me **niroshsanjaya234@@gmail.com**
+- 📫 How to reach me **niroshsanjaya234@gmail.com**
   
 - ⚡ Fun fact **Call me as KD**
 
