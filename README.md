@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology]
+- :school: I am a `Junior` at [`graphic designers and photography` **&** `Junio software engineer`]
 - :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
 - :technologist: **Currently working on** `graphic designers and photography` **&** `Junio software engineer`
 - :boom: You can visit [MY WEBSITE](https://github.com/Kasun-Sanjaya) for some frontend knowledge
